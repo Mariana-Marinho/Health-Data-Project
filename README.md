@@ -1,7 +1,5 @@
 # Health-Data-Project
 
-# Projeto de Análise Exploratória de Dados em Saúde
-
 Este repositório contém o projeto de Análise Exploratória de Dados (EDA) realizado com uma base de dados de saúde. O objetivo principal deste projeto é explorar e analisar os dados para extrair insights que possam ser úteis para entender melhor os padrões e tendências relacionadas à saúde.
 
 ## Descrição dos Arquivos
